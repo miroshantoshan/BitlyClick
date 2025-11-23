@@ -1,25 +1,41 @@
-# 🔅 Программа для сокращения ссылок DefClicker
-## 📕 Краткое руководство
-### Как использовать?
-Вставьте ссылку в поле для ввода ссылки,после ввода нажмите на кнопку **"Сократить ссылку"** и сверху приложения высветится сгенерированная ссылка,перейдя по ней, вы попадёте на страницу вашей ссылки!
+<p align="center">
+<img src="https://github.com/miroshantoshan/BitlyClick/blob/main/logo.ico" style="width:30%"/>
+</p>
 
-### Как запустить?
-⚡ **1.** Откройте терминал
-⚡ **2.** Напишите в терминал команду 
-```
-cd и путь до папки** 
-```
-⚡ **3.** После этого напишите команду 
-```
-python defclicker.py
-```
 
-### Как установить?
+# 🔅 BitlyClick URL Shortener
 
-###### Скачайте и разархивируйте код на своем ПК.
 
-Python3 уже должен быть установлен. Затем используйте pip (или pip3,если конфликт с Python2) для установки зависимостей
+## 📕 A short guide
+### How to use?
+Paste the link in the link input field, and then click on the **"Shorten link"** button. The generated link will appear at the top of the app, and clicking on it will take you to your link's page!
+
+
+### How to download?
+
+###### Download and unzip the code on your PC.
+
+ Python3 must already be installed. Then use pip (or pip3 if there is a conflict with Python2) to install the dependencies
 ```
 pip install -r requirements.txt
 
 ```
+
+
+### How to launch
+⚡ **1.** Open terminal
+⚡ **2.** Write a command to the terminal
+```
+cd PATH_TO_FOLDER** 
+```
+⚡ **3.** After this write to the terminal
+```
+python app.py
+```
+
+### ❗Important
+
+Before opening the app, make sure you have installed the [BITLY TOKEN](https://app.bitly.com/settings/api) in the token.txt file.
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=IBM&pause=1000&color=F77D0E&width=435&lines=Star+it%2C+please!" alt="Typing SVG" /></a>
